@@ -80,7 +80,7 @@
 
 **Challenge/Project:**
 
-- Build a console-based risk event tracker that uses classes, interfaces, LINQ, and unit tests.
+- Build a C# console app that simulates a portfolio of financial positions, applies daily market shocks, calculates daily P&L and Value-at-Risk, and outputs summary reports.
 
 **Estimated Time:** 3–4 weeks (10 hrs/week)
 
