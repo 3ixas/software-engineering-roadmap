@@ -8,9 +8,9 @@
 
 ---
 
-# 🧠 PHASE 0: Foundations
+# PHASE 0: Foundations
 
-## ✅ Checkpoint 0.1: Computer Science Core
+## Checkpoint 0.1: Computer Science Core
 
 **Checkpoint Goal:** Understand fundamental CS concepts: binary, memory, how code becomes machine instructions, basic algorithms.
 
@@ -26,7 +26,7 @@
 
 ---
 
-## ✅ Checkpoint 0.2: Data Structures & Algorithms for Interviews
+## Checkpoint 0.2: Data Structures & Algorithms for Interviews
 
 **Checkpoint Goal:** Build fluency with common DSA patterns (arrays, trees, recursion, graphs) and solve LeetCode-style problems confidently.
 
@@ -43,7 +43,7 @@
 
 ---
 
-## ✅ Checkpoint 0.3: Git, Terminal & Debugging
+## Checkpoint 0.3: Git, Terminal & Debugging
 
 **Checkpoint Goal:** Use Git, command line, and debugging tools fluently in real projects.
 
@@ -59,16 +59,16 @@
 
 **Estimated Time:** 1–2 weeks (6–8 hrs/week)
 
-**✨ Phase 0: Review & Reflect:**
+**Phase 0: Review & Reflect:**
 
 - Tidy GitHub repos and README files.
 - Write a brief reflection or LinkedIn/blog post summarising key CS and DSA lessons.
 
 ---
 
-# 🟨 PHASE 1: Backend Language Proficiency
+# PHASE 1: Backend Language Proficiency
 
-## ✅ Checkpoint 1.1: C# Fundamentals
+## Checkpoint 1.1: C# Fundamentals
 
 **Checkpoint Goal:** Write object-oriented, maintainable, and testable C# code using .NET best practices.
 
@@ -86,7 +86,7 @@
 
 ---
 
-## ✅ Checkpoint 1.2: Java Fundamentals
+## Checkpoint 1.2: Java Fundamentals
 
 **Checkpoint Goal:** Understand core Java concepts for backend roles in enterprise or performance-focused environments.
 
@@ -104,7 +104,7 @@
 
 ---
 
-## ✅ Checkpoint 1.3: Python for Backend & Infra
+## Checkpoint 1.3: Python for Backend & Infra
 
 **Checkpoint Goal:** Use Python to build APIs, scripts, or infra tools with clear code structure and readability.
 
@@ -120,16 +120,16 @@
 
 **Estimated Time:** 2 weeks (8 hrs/week)
 
-**✨ Phase 1: Review & Reflect:**
+**Phase 1: Review & Reflect:**
 
 - Update GitHub portfolio with 3 language-specific repos.
 - Post a reflection on what you learned about language design trade-offs.
 
 ---
 
-# 🧱 PHASE 2: Backend Engineering Core
+# PHASE 2: Backend Engineering Core
 
-## ✅ Checkpoint 2.1: REST APIs
+## Checkpoint 2.1: REST APIs
 
 **Checkpoint Goal:** Design and build secure, testable REST APIs using industry standards.
 
@@ -147,7 +147,7 @@
 
 ---
 
-## ✅ Checkpoint 2.2: Databases
+## Checkpoint 2.2: Databases
 
 **Checkpoint Goal:** Use relational and NoSQL databases fluently — write optimised queries, manage schema, and handle transactions.
 
@@ -165,7 +165,7 @@
 
 ---
 
-## ✅ Checkpoint 2.3: Testing & Code Quality
+## Checkpoint 2.3: Testing & Code Quality
 
 **Checkpoint Goal:** Write unit/integration tests and maintain clean, documented, and error-resistant codebases.
 
@@ -183,7 +183,7 @@
 
 ---
 
-## 🔐 Checkpoint 2.4: Secure Backend Practices
+## Checkpoint 2.4: Secure Backend Practices
 
 **Checkpoint Goal:** Understand and apply core web/API security principles: OWASP Top 10, input validation, JWT/OAuth, and rate limiting.
 
@@ -199,16 +199,16 @@
 
 **Estimated Time:** 1–2 weeks (6–8 hrs/week)
 
-**✨ Phase 2: Review & Reflect:**
+**Phase 2: Review & Reflect:**
 
 - Revisit 1 previous backend project and document design decisions.
 - Post a "How I Improved My API" breakdown to GitHub or LinkedIn.
 
 ---
 
-# 🏟 PHASE 3: System Design & Architecture
+# PHASE 3: System Design & Architecture
 
-## ✅ Checkpoint 3.1: System Design Fundamentals
+## Checkpoint 3.1: System Design Fundamentals
 
 **Checkpoint Goal:** Understand basic trade-offs and architecture principles: latency, throughput, consistency, scaling.
 
@@ -232,7 +232,7 @@
 
 ---
 
-## ✅ Checkpoint 3.2: Real-World Backend Design
+## Checkpoint 3.2: Real-World Backend Design
 
 **Checkpoint Goal:** Apply system design in a real backend project using service boundaries, layers, observability, and logging.
 
@@ -248,16 +248,16 @@
 
 **Estimated Time:** 2–3 weeks (8–10 hrs/week)
 
-**✨ Phase 3: Review & Reflect:**
+**Phase 3: Review & Reflect:**
 
 - Publish 1 system design doc and share it publicly (LinkedIn/blog).
 - Compare against a known system (e.g. GitHub, YouTube) to analyse similarities.
 
 ---
 
-# 🌱 PHASE 4: Exploration Track (Optional)
+# PHASE 4: Exploration Track (Optional)
 
-## ✅ Checkpoint 4.1: AI Infrastructure (Optional)
+## Checkpoint 4.1: AI Infrastructure (Optional)
 
 **Checkpoint Goal:** Explore model-serving patterns and infra tooling (Docker, queues, observability).
 
@@ -276,7 +276,7 @@
 
 ---
 
-## ✅ Checkpoint 4.2: DevOps & CI/CD (Optional)
+## Checkpoint 4.2: DevOps & CI/CD (Optional)
 
 **Checkpoint Goal:** Understand Docker and CI/CD workflows to deploy and maintain backend systems.
 
@@ -292,7 +292,7 @@
 
 **Estimated Time:** 2 weeks (6–8 hrs/week)
 
-**✨ Phase 4: Review & Reflect:**
+**Phase 4: Review & Reflect:**
 
 - Write a short post on lessons from deploying or monitoring your own infra.
 - Decide whether to explore this area more deeply in 2026.
